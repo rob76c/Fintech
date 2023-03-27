@@ -30,8 +30,8 @@ pip install questionary
 
 ## Usage
 
-The application works by using your pin to validate your account then gives you the option to check your account balance, or withdraw/deposit money. To launch the application after installation, please run: 
->"python app.py" into the terminal.
+The application works by using your pin to validate your account then gives you the option to check your account balance, or withdraw/deposit money. To launch the application after installation, please run in your terminal: 
+>python app.py
 
 ---
 
